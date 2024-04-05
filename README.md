@@ -1,5 +1,5 @@
 # Welcome to My Personal Portfolio Repository! :wave:
-This repository serves as the backbone for my personal portfolio website. It showcases my journey, skills, and projects in cybersecurity and application development.
+This repository serves as the backbone for my personal portfolio website. It showcases my journey, skills, and projects in cloud computing and application development.
 ## :bulb: About This Repository
 Here, you'll find the code and resources that power my personal portfolio website. This repository includes:
 - Web development assets and source code
