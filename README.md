@@ -18,7 +18,7 @@ In this portfolio, you'll notice my focus on:
 I'm always open to connecting, collaborating on projects, or just having a chat about technology and cloud computing!
 - Email: (malcolmtmukorera@outlook.com)
 - LinkedIn: [Click Here](https://www.linkedin.com/in/malusimthiyane)
-- GitHub: [Click Here]([(https://github.com/MalcolmMukorera )])
+- GitHub: [Click Here](https://github.com/MalcolmMukorera )
 - Credly: [Click Here](https://www.credly.com/users/malcolm-mukorera)
 ---
 Thank you for visiting my repository! Your interest and support are greatly appreciated. :star2:
